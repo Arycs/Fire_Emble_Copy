@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: fad95e8f678e5774ba54ef8691dcadcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1519834762643854304
+    second: playerSwordmasterM_move_alpha_0
+  - first:
+      213: 3972777891658622232
+    second: playerSwordmasterM_move_alpha_1
+  - first:
+      213: 5958075805291295463
+    second: playerSwordmasterM_move_alpha_2
+  - first:
+      213: 5328992409888718058
+    second: playerSwordmasterM_move_alpha_3
+  - first:
+      213: -7983585777623983258
+    second: playerSwordmasterM_move_alpha_4
+  - first:
+      213: -8972934390585684275
+    second: playerSwordmasterM_move_alpha_5
+  - first:
+      213: 3985942415848142801
+    second: playerSwordmasterM_move_alpha_6
+  - first:
+      213: -6086050910762702586
+    second: playerSwordmasterM_move_alpha_7
+  - first:
+      213: 840615018496561986
+    second: playerSwordmasterM_move_alpha_8
+  - first:
+      213: 3683494771917425470
+    second: playerSwordmasterM_move_alpha_9
+  - first:
+      213: -145285672657665694
+    second: playerSwordmasterM_move_alpha_10
+  - first:
+      213: 3447329157804663333
+    second: playerSwordmasterM_move_alpha_11
+  - first:
+      213: -4310173053102391914
+    second: playerSwordmasterM_move_alpha_12
+  - first:
+      213: 5039987322177543206
+    second: playerSwordmasterM_move_alpha_13
+  - first:
+      213: 4216578823113887786
+    second: playerSwordmasterM_move_alpha_14
+  - first:
+      213: 5106700502579068267
+    second: playerSwordmasterM_move_alpha_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ca257f55678eae0800000000000000
+      internalID: -1519834762643854304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81566db9174222730800000000000000
+      internalID: 3972777891658622232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 120
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2bc3fa0665fa250800000000000000
+      internalID: 5958075805291295463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 120
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec7b22dc5264f940800000000000000
+      internalID: 5328992409888718058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b9cdab80b943190800000000000000
+      internalID: -7983585777623983258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 80
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce014066bbb97380800000000000000
+      internalID: -8972934390585684275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 80
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d77acf3289e05730800000000000000
+      internalID: 3985942415848142801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 80
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609eb0321f00a8ba0800000000000000
+      internalID: -6086050910762702586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439852d7e67aab00800000000000000
+      internalID: 840615018496561986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 40
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b8524aaf66e1330800000000000000
+      internalID: 3683494771917425470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 40
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26149425377dbfdf0800000000000000
+      internalID: -145285672657665694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 40
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5222bc2ba9f57df20800000000000000
+      internalID: 3447329157804663333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dfe59c1703f24c0800000000000000
+      internalID: -4310173053102391914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c5dda34c1a1f540800000000000000
+      internalID: 5039987322177543206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a205327691c448a30800000000000000
+      internalID: 4216578823113887786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSwordmasterM_move_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6db886fc05aed640800000000000000
+      internalID: 5106700502579068267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

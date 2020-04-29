@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: b6779327d8e1d3a4da3baceec8b04721
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4224224179644594916
+    second: enemyFighterM_move_alpha_0
+  - first:
+      213: -981881703734976242
+    second: enemyFighterM_move_alpha_1
+  - first:
+      213: -4825513755971393487
+    second: enemyFighterM_move_alpha_2
+  - first:
+      213: -2288709075236552188
+    second: enemyFighterM_move_alpha_3
+  - first:
+      213: -6435897284844531744
+    second: enemyFighterM_move_alpha_4
+  - first:
+      213: -809772929622451439
+    second: enemyFighterM_move_alpha_5
+  - first:
+      213: 3302602358158332000
+    second: enemyFighterM_move_alpha_6
+  - first:
+      213: -6939117238941919335
+    second: enemyFighterM_move_alpha_7
+  - first:
+      213: -3833922687769539017
+    second: enemyFighterM_move_alpha_8
+  - first:
+      213: -6418214468310694717
+    second: enemyFighterM_move_alpha_9
+  - first:
+      213: -7266451113721535714
+    second: enemyFighterM_move_alpha_10
+  - first:
+      213: -3388602630414140407
+    second: enemyFighterM_move_alpha_11
+  - first:
+      213: 562219686877164089
+    second: enemyFighterM_move_alpha_12
+  - first:
+      213: -9204224304944866288
+    second: enemyFighterM_move_alpha_13
+  - first:
+      213: 4391807952300111167
+    second: enemyFighterM_move_alpha_14
+  - first:
+      213: 115242681744411855
+    second: enemyFighterM_move_alpha_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 120
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c150ba05d7a8065c0800000000000000
+      internalID: -4224224179644594916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 120
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01eb6deac7af52f0800000000000000
+      internalID: -981881703734976242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138609c3ec4580db0800000000000000
+      internalID: -4825513755971393487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 120
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020050e83fdc30e0800000000000000
+      internalID: -2288709075236552188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 80
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efc0fda4891fa6a0800000000000000
+      internalID: -6435897284844531744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 80
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b50259fcb13c4f0800000000000000
+      internalID: -809772929622451439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 80
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0601568c85335dd20800000000000000
+      internalID: 3302602358158332000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 80
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997d31ed2ad43bf90800000000000000
+      internalID: -6939117238941919335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 40
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e8f23e0ab2bcac0800000000000000
+      internalID: -3833922687769539017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 40
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4811c32fbede6a0800000000000000
+      internalID: -6418214468310694717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 40
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13e2ec1631682b90800000000000000
+      internalID: -7266451113721535714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 40
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cf5397cd349f0d0800000000000000
+      internalID: -3388602630414140407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9327b0293d76dc700800000000000000
+      internalID: 562219686877164089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c9ebeb2c6044080800000000000000
+      internalID: -9204224304944866288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3575965016d2fc30800000000000000
+      internalID: 4391807952300111167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyFighterM_move_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccc654cb9c699100800000000000000
+      internalID: 115242681744411855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

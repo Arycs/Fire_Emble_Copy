@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: f8ee9f92831b8ec418b6fed545f043fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4027764677565565516
+    second: Fighter0-Axe-GenericBlue_alpha_0
+  - first:
+      213: -8375582964873565326
+    second: Fighter0-Axe-GenericBlue_alpha_1
+  - first:
+      213: -9132204087306856730
+    second: Fighter0-Axe-GenericBlue_alpha_2
+  - first:
+      213: 2042666182236919628
+    second: Fighter0-Axe-GenericBlue_alpha_3
+  - first:
+      213: 7650127669527579222
+    second: Fighter0-Axe-GenericBlue_alpha_4
+  - first:
+      213: -8563070882236629868
+    second: Fighter0-Axe-GenericBlue_alpha_5
+  - first:
+      213: -8058454200309789115
+    second: Fighter0-Axe-GenericBlue_alpha_6
+  - first:
+      213: -8592372625072182436
+    second: Fighter0-Axe-GenericBlue_alpha_7
+  - first:
+      213: 9177633209669999236
+    second: Fighter0-Axe-GenericBlue_alpha_8
+  - first:
+      213: -2023717021105494862
+    second: Fighter0-Axe-GenericBlue_alpha_9
+  - first:
+      213: -6890858381885101353
+    second: Fighter0-Axe-GenericBlue_alpha_10
+  - first:
+      213: 5496476438767395424
+    second: Fighter0-Axe-GenericBlue_alpha_11
+  - first:
+      213: -2880000815276076761
+    second: Fighter0-Axe-GenericBlue_alpha_12
+  - first:
+      213: 1610454409608828979
+    second: Fighter0-Axe-GenericBlue_alpha_13
+  - first:
+      213: 1650860935838735461
+    second: Fighter0-Axe-GenericBlue_alpha_14
+  - first:
+      213: -5446876054882684782
+    second: Fighter0-Axe-GenericBlue_alpha_15
+  - first:
+      213: -517570678635132471
+    second: Fighter0-Axe-GenericBlue_alpha_16
+  - first:
+      213: -679055440516220031
+    second: Fighter0-Axe-GenericBlue_alpha_17
+  - first:
+      213: 8848790410648381635
+    second: Fighter0-Axe-GenericBlue_alpha_18
+  - first:
+      213: -4967502857672710484
+    second: Fighter0-Axe-GenericBlue_alpha_19
+  - first:
+      213: -8804851793541142550
+    second: Fighter0-Axe-GenericBlue_alpha_20
+  - first:
+      213: -8943917351463511482
+    second: Fighter0-Axe-GenericBlue_alpha_21
+  - first:
+      213: -8806823094849391601
+    second: Fighter0-Axe-GenericBlue_alpha_22
+  - first:
+      213: -2846782999619998564
+    second: Fighter0-Axe-GenericBlue_alpha_23
+  - first:
+      213: -4505212038265442145
+    second: Fighter0-Axe-GenericBlue_alpha_24
+  - first:
+      213: -6979565866794469559
+    second: Fighter0-Axe-GenericBlue_alpha_25
+  - first:
+      213: -2440321499621288106
+    second: Fighter0-Axe-GenericBlue_alpha_26
+  - first:
+      213: -5865489477266135121
+    second: Fighter0-Axe-GenericBlue_alpha_27
+  - first:
+      213: -1005352231832187507
+    second: Fighter0-Axe-GenericBlue_alpha_28
+  - first:
+      213: 2886327505189611114
+    second: Fighter0-Axe-GenericBlue_alpha_29
+  - first:
+      213: -2807202970001755617
+    second: Fighter0-Axe-GenericBlue_alpha_30
+  - first:
+      213: -7096232458168038021
+    second: Fighter0-Axe-GenericBlue_alpha_31
+  - first:
+      213: -5399533477634419220
+    second: Fighter0-Axe-GenericBlue_alpha_32
+  - first:
+      213: -1171943926995976758
+    second: Fighter0-Axe-GenericBlue_alpha_33
+  - first:
+      213: 6332158418413757103
+    second: Fighter0-Axe-GenericBlue_alpha_34
+  - first:
+      213: -6744672248969728056
+    second: Fighter0-Axe-GenericBlue_alpha_35
+  - first:
+      213: 6764427835993229179
+    second: Fighter0-Axe-GenericBlue_alpha_36
+  - first:
+      213: 2910496204678402398
+    second: Fighter0-Axe-GenericBlue_alpha_37
+  - first:
+      213: -6500430724434973294
+    second: Fighter0-Axe-GenericBlue_alpha_38
+  - first:
+      213: 1056298428182384912
+    second: Fighter0-Axe-GenericBlue_alpha_39
+  - first:
+      213: -2616840584583253871
+    second: Fighter0-Axe-GenericBlue_alpha_40
+  - first:
+      213: -2146767240244203433
+    second: Fighter0-Axe-GenericBlue_alpha_41
+  - first:
+      213: -6864867386040986092
+    second: Fighter0-Axe-GenericBlue_alpha_42
+  - first:
+      213: 1725572051200639894
+    second: Fighter0-Axe-GenericBlue_alpha_43
+  - first:
+      213: 5698418330698034611
+    second: Fighter0-Axe-GenericBlue_alpha_44
+  - first:
+      213: 7333610810780534215
+    second: Fighter0-Axe-GenericBlue_alpha_45
+  - first:
+      213: 4952428432434821842
+    second: Fighter0-Axe-GenericBlue_alpha_46
+  - first:
+      213: 5254915552650689461
+    second: Fighter0-Axe-GenericBlue_alpha_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 38
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a492d52ae75e730800000000000000
+      internalID: 4027764677565565516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 30
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27be5ef4ba3f3cb80800000000000000
+      internalID: -8375582964873565326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 40
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e654bf54c4e34180800000000000000
+      internalID: -9132204087306856730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 65
+        width: 48
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c475feaf112095c10800000000000000
+      internalID: 2042666182236919628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 65
+        width: 47
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a04945596ba2a60800000000000000
+      internalID: 7650127669527579222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 65
+        width: 44
+        height: 85
+      alignment: 9
+      pivot: {x: 0.35, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c7bc5d66cd92980800000000000000
+      internalID: -8563070882236629868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 65
+        width: 44
+        height: 85
+      alignment: 9
+      pivot: {x: 0.35, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec7cfa99e9a2090800000000000000
+      internalID: -8058454200309789115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 65
+        width: 41
+        height: 85
+      alignment: 9
+      pivot: {x: 0.35, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b28c03f92c1c880800000000000000
+      internalID: -8592372625072182436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 65
+        width: 39
+        height: 85
+      alignment: 9
+      pivot: {x: 0.35, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a553d67c08d5f70800000000000000
+      internalID: 9177633209669999236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 37
+        height: 85
+      alignment: 9
+      pivot: {x: 0.45, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4681767105ae3e0800000000000000
+      internalID: -2023717021105494862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 65
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da273e9fc0ce50a0800000000000000
+      internalID: -6890858381885101353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 65
+        width: 89
+        height: 85
+      alignment: 9
+      pivot: {x: 0.8, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062e8011338674c40800000000000000
+      internalID: 5496476438767395424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 65
+        width: 71
+        height: 85
+      alignment: 9
+      pivot: {x: 0.8, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72152a4748e2808d0800000000000000
+      internalID: -2880000815276076761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 65
+        width: 58
+        height: 85
+      alignment: 9
+      pivot: {x: 0.8, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33812b3c0cb795610800000000000000
+      internalID: 1610454409608828979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 65
+        width: 61
+        height: 85
+      alignment: 9
+      pivot: {x: 0.75, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c9c36464909e610800000000000000
+      internalID: 1650860935838735461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 65
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.7, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290f22d361fc864b0800000000000000
+      internalID: -5446876054882684782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 65
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.7, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c98bc1c53831d8f0800000000000000
+      internalID: -517570678635132471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 65
+        width: 45
+        height: 85
+      alignment: 9
+      pivot: {x: 0.7, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bfb35bca28396f0800000000000000
+      internalID: -679055440516220031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 65
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.65, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8649edef73dca70800000000000000
+      internalID: 8848790410648381635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 65
+        width: 43
+        height: 85
+      alignment: 9
+      pivot: {x: 0.65, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62eab4872ef0bb0800000000000000
+      internalID: -4967502857672710484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 65
+        width: 36
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e402a1f1eec580800000000000000
+      internalID: -8804851793541142550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 65
+        width: 37
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a90954e82d0e380800000000000000
+      internalID: -8943917351463511482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 65
+        width: 38
+        height: 85
+      alignment: 9
+      pivot: {x: 0.65, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04bbc74e01e7c580800000000000000
+      internalID: -8806823094849391601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 65
+        width: 42
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c670bd1f13e78d0800000000000000
+      internalID: -2846782999619998564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter0-Axe-GenericBlue_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 65
+        width: 37
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90ff5555854a71c0800000000000000
+      internalID: -4505212038265442145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

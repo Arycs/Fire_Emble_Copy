@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 6c704a0086208de48a608f445d22c49e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2683010783142312670
+    second: InfoPersonalDataTitle_0
+  - first:
+      213: -5592044601681167940
+    second: InfoPersonalDataTitle_1
+  - first:
+      213: 1349736546457102304
+    second: InfoPersonalDataTitle_2
+  - first:
+      213: 3796748872282479433
+    second: InfoPersonalDataTitle_3
+  - first:
+      213: -7311580140362309601
+    second: InfoPersonalDataTitle_4
+  - first:
+      213: 7611723249777696741
+    second: InfoPersonalDataTitle_5
+  - first:
+      213: 1190789340094740991
+    second: InfoPersonalDataTitle_6
+  - first:
+      213: 2277724556542585698
+    second: InfoPersonalDataTitle_7
+  - first:
+      213: 5666982926700868195
+    second: InfoPersonalDataTitle_8
+  - first:
+      213: -1226385697037415869
+    second: InfoPersonalDataTitle_9
+  - first:
+      213: -9123917598628333108
+    second: InfoPersonalDataTitle_10
+  - first:
+      213: 1780083015443515089
+    second: InfoPersonalDataTitle_11
+  - first:
+      213: -8200356462005471572
+    second: InfoPersonalDataTitle_12
+  - first:
+      213: 944368478819497100
+    second: InfoPersonalDataTitle_13
+  - first:
+      213: -2263529313751136165
+    second: InfoPersonalDataTitle_14
+  - first:
+      213: -4863487036334321085
+    second: InfoPersonalDataTitle_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfoPersonalDataTitle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda7db19718fb3520800000000000000
+      internalID: 2683010783142312670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfoPersonalDataTitle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb937ac00111562b0800000000000000
+      internalID: -5592044601681167940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfoPersonalDataTitle_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e720ffdc3a3bb210800000000000000
+      internalID: 1349736546457102304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfoPersonalDataTitle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b13c9bbf2c0b430800000000000000
+      internalID: 3796748872282479433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfoPersonalDataTitle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1067eac99c088a90800000000000000
+      internalID: -7311580140362309601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfoPersonalDataTitle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efd49f87f542a960800000000000000
+      internalID: 7611723249777696741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfoPersonalDataTitle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff93ba28898868010800000000000000
+      internalID: 1190789340094740991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfoPersonalDataTitle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ba7e09a6a1c9f10800000000000000
+      internalID: 2277724556542585698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

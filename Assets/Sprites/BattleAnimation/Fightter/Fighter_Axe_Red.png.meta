@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: d6748532b5b4574458420b5ce8ca0709
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2335697890930788591
+    second: Fighter_Axe_Red_0
+  - first:
+      213: -390917648675664994
+    second: Fighter_Axe_Red_1
+  - first:
+      213: 2371967265813440300
+    second: Fighter_Axe_Red_2
+  - first:
+      213: 462011108586077646
+    second: Fighter_Axe_Red_3
+  - first:
+      213: -1387535921512910569
+    second: Fighter_Axe_Red_4
+  - first:
+      213: -922883266500381491
+    second: Fighter_Axe_Red_5
+  - first:
+      213: 340388541436255232
+    second: Fighter_Axe_Red_6
+  - first:
+      213: -489757724170002941
+    second: Fighter_Axe_Red_7
+  - first:
+      213: -5275911738226852432
+    second: Fighter_Axe_Red_8
+  - first:
+      213: -5853381061207560665
+    second: Fighter_Axe_Red_9
+  - first:
+      213: -2512621547370648543
+    second: Fighter_Axe_Red_10
+  - first:
+      213: -6560286319585086627
+    second: Fighter_Axe_Red_11
+  - first:
+      213: 6740553901668036710
+    second: Fighter_Axe_Red_12
+  - first:
+      213: -1984948421777520415
+    second: Fighter_Axe_Red_13
+  - first:
+      213: -6957527469104760648
+    second: Fighter_Axe_Red_14
+  - first:
+      213: -5865110894209436932
+    second: Fighter_Axe_Red_15
+  - first:
+      213: -3211713397481231510
+    second: Fighter_Axe_Red_16
+  - first:
+      213: 8753920514514032878
+    second: Fighter_Axe_Red_17
+  - first:
+      213: 8784763849191901512
+    second: Fighter_Axe_Red_18
+  - first:
+      213: 6943452322344414207
+    second: Fighter_Axe_Red_19
+  - first:
+      213: 8917497636994382315
+    second: Fighter_Axe_Red_20
+  - first:
+      213: -7491541695286419126
+    second: Fighter_Axe_Red_21
+  - first:
+      213: 3425676090468888017
+    second: Fighter_Axe_Red_22
+  - first:
+      213: -4658522807686549631
+    second: Fighter_Axe_Red_23
+  - first:
+      213: 2404120026218486826
+    second: Fighter_Axe_Red_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 38
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe80f835bd01a6020800000000000000
+      internalID: 2335697890930788591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 31
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b814e387e239af0800000000000000
+      internalID: -390917648675664994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 40
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c272aa939abeae020800000000000000
+      internalID: 2371967265813440300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 65
+        width: 48
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdbe89c7a4696600800000000000000
+      internalID: 462011108586077646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 65
+        width: 47
+        height: 85
+      alignment: 9
+      pivot: {x: 0.35, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711f02d4e6b7ebce0800000000000000
+      internalID: -1387535921512910569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 65
+        width: 44
+        height: 85
+      alignment: 9
+      pivot: {x: 0.35, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4b71b0f824133f0800000000000000
+      internalID: -922883266500381491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 65
+        width: 43
+        height: 85
+      alignment: 9
+      pivot: {x: 0.35, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cdbe1339d49b400800000000000000
+      internalID: 340388541436255232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 65
+        width: 41
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ed7d8d1f70439f0800000000000000
+      internalID: -489757724170002941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 65
+        width: 39
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdbca02a3238c6b0800000000000000
+      internalID: -5275911738226852432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 65
+        width: 36
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e69b7ffec94cea0800000000000000
+      internalID: -5853381061207560665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 65
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ceafdd300612dd0800000000000000
+      internalID: -2512621547370648543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 65
+        width: 91
+        height: 85
+      alignment: 9
+      pivot: {x: 0.75, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53b648a95e25f4a0800000000000000
+      internalID: -6560286319585086627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_12
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 65
+        width: 71
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660fb428f024b8d50800000000000000
+      internalID: 6740553901668036710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 65
+        width: 58
+        height: 85
+      alignment: 9
+      pivot: {x: 0.75, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e88a765deb0474e0800000000000000
+      internalID: -1984948421777520415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_14
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 65
+        width: 67
+        height: 85
+      alignment: 9
+      pivot: {x: 0.78, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8fcf021a5e17f90800000000000000
+      internalID: -6957527469104760648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_15
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 65
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.68, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf27f5667b0fa9ea0800000000000000
+      internalID: -5865110894209436932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 65
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.68, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ba4ce6ea3bd63d0800000000000000
+      internalID: -3211713397481231510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_17
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 65
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.68, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee81d93e35c2c7970800000000000000
+      internalID: 8753920514514032878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_18
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 65
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.68, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849c6ca5d20c9e970800000000000000
+      internalID: 8784763849191901512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_19
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 65
+        width: 43
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb233469191c5060800000000000000
+      internalID: 6943452322344414207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_20
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 65
+        width: 37
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97f6a9ad051cb70800000000000000
+      internalID: 8917497636994382315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_21
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 64
+        width: 37
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41ec602582b80890800000000000000
+      internalID: -7491541695286419126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_22
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 65
+        width: 38
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd62f711427a8f20800000000000000
+      internalID: 3425676090468888017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_23
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 65
+        width: 42
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fa9c5303a995fb0800000000000000
+      internalID: -4658522807686549631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Axe_Red_24
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 65
+        width: 37
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd7202d662d5120800000000000000
+      internalID: 2404120026218486826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
